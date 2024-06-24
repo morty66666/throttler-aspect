@@ -3,5 +3,6 @@ build
 *.txt
 
 build/*
+scripts/privateKey.txt
 
 yarn-error.log
